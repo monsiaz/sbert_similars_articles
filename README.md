@@ -82,8 +82,3 @@ Feel free to open issues or submit pull requests if you have ideas for improveme
   to another pre-trained model from the [Sentence-Transformers Model Hub](https://www.sbert.net/docs/pretrained_models.html).
 
 - **Batch size**: To handle larger datasets more efficiently, you might consider modifying the script to encode texts in batches rather than all at once.
-
-## License
-
-This project is released under the MIT License. Feel free to use it or adapt it for your own needs.
-# sbert_similars_articles
